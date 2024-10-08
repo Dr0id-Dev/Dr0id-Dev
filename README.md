@@ -2,7 +2,7 @@
 - 👀 I’m interested in building Droids and other similar things.
 - 🌱 I’m currently learning SBUS, Python, CAN, and I²C. 
 - 💞️ I’m looking to collaborate on Advanced Droid Tech
-- 📫 How to reach me ...
+- 📫 How to reach me send me a message here or on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The name R2-D2 comes from "Reel 2, Dialog 2" which was an audio tape reel used in the editing of American Graffiti. 
 
