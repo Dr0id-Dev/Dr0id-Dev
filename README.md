@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dr0id-Dev (aka Nigel)
 
-I'm a qualified lawyer specialising in intellectual property law, with a research degree from the University of Cambridge in the field ofe software patents. More to the point in this forum, my passion for technology and innovation has also led me to pursue a strong passion for engineering—especially in robotics, software development and AI.
+I'm a qualified lawyer specialising in intellectual property law, with a research degree from the University of Cambridge in the field ofe software patents. More to the point in this forum, my interest for technology and innovation has also led me to pursue a strong passion for engineering—especially in robotics, software development and AI.
 
 Currently,  I'm working on projects that realise the functions we see R2-D2 perform in the movies: building a speech recognition system, object detection and avoidance, and other AI challenges using Python and PyTorch, and experimenting with protocols like CAN. There's also the tricky task of aluminium fabrication. I'm particularly interested in pushing the boundaries of AI, robotics, and how these can be practically applied within different legal and commercial frameworks.
 
