@@ -2,7 +2,7 @@
 
 I have a deep interest in robotics, software development, and AI. My passion for technology and innovation has driven me to focus on projects that bring engineering challenges to life—especially those involving machine learning and robotics.
 
-Currently, I'm working on projects to bring R2-D2's movie capabilities into the real world: building a speech recognition system, implementing object detection and avoidance, and tackling AI challenges using Python and PyTorch. I'm also exploring communication protocols like CAN and facing the hands-on challenge of aluminum fabrication for R2’s structure.
+Currently, I'm working on projects to bring R2-D2's capabilities seen on the big screen into the real world: building a speech recognition system, implementing object detection and avoidance, and tackling AI challenges using Python and PyTorch. I'm also exploring communication protocols like CAN and facing the hands-on challenge of aluminum fabrication for R2’s structure.
 
 My journey has also been shaped by a background in intellectual property law, with a research degree in software patents from the University of Cambridge. This unique blend allows me to push the boundaries of robotics and AI while understanding the broader legal and commercial frameworks that affect innovation.
 
