@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @Dr0id-Dev (aka Nigel)
 
-I'm a qualified lawyer knowledgeable in intellectual property law, with a research degree from the University of Cambridge in the field of software patents. More to the point in this forum, my interest for technology and innovation has also led me to pursue a strong passion for engineering—especially in robotics, software development and AI.
+I have a deep interest in robotics, software development, and AI. My passion for technology and innovation has driven me to focus on projects that bring engineering challenges to life—especially those involving machine learning and robotics.
 
-Currently,  I'm working on projects that realise the functions we see R2-D2 perform in the movies: building a speech recognition system, object detection and avoidance, and other AI challenges using Python and PyTorch, and experimenting with protocols like CAN. There's also the tricky task of aluminium fabrication. I'm particularly interested in pushing the boundaries of AI, robotics, and how these can be practically applied within different legal and commercial frameworks.
+Currently, I'm working on projects to bring R2-D2's movie capabilities into the real world: building a speech recognition system, implementing object detection and avoidance, and tackling AI challenges using Python and PyTorch. I'm also exploring communication protocols like CAN and facing the hands-on challenge of aluminum fabrication for R2’s structure.
 
-Feel free to check out my repositories, which reflect my current journey into the world of robotics and programming, or get in touch if you're interested in collaborating or learning more.
+My journey has also been shaped by a background in intellectual property law, with a research degree in software patents from the University of Cambridge. This unique blend allows me to push the boundaries of robotics and AI while understanding the broader legal and commercial frameworks that affect innovation.
+
+Feel free to check out my repositories to see my ongoing robotics and programming work, or get in touch if you're interested in collaborating or learning more.
 
 - 👀 I’m interested in building Droids and other similar things.
 - 🌱 I’m interested in Python, CAN, TensorFlow and PyTorch. 
-- 👀 I am a qualified lawyer with advanced degrees in intellectual property law, (specifically software patents) complemented by a growing expertise in engineering and robotics, particularly in programming, electronics, and artificial intelligence.
+- 👀 In addition to my engineering pursuits, I'm a qualified lawyer with advanced degrees in intellectual property law, specifically focusing on software patents.
 - 📫 How to reach me: send me a message here or on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The name R2-D2 comes from "Reel 2, Dialog 2" which was an audio tape reel used in the editing of _American Graffiti_. 
